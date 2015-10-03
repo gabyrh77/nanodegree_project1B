@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="background_margin_vertical">60dp</dimen>
+    <dimen name="margin_horizontal">40dp</dimen>
+    <dimen name="image_poster_detail_height">350dp</dimen>
+    <dimen name="image_poster_height">400dp</dimen>
+    <dimen name="image_poster_height_with_margin">368dp</dimen>
+    <dimen name="background_text">72sp</dimen>
+</resources>

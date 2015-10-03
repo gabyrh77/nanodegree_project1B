@@ -1,0 +1,20 @@
+<resources>
+    <style name="MovieTitleStyle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">san-serif-black</item>
+        <item name="android:textSize">@dimen/background_text</item>
+    </style>
+    <style name="LabelStyle">
+        <item name="android:textColor">@color/indigo</item>
+        <item name="android:paddingBottom">@dimen/tiny_margin</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:fontFamily">san-serif-condensed</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="InfoStyle">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">@dimen/info_text</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:fontFamily">san-serif-condensed</item>
+    </style>
+</resources>

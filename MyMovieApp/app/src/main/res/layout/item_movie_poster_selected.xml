@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/indigo"
+    android:paddingBottom="@dimen/small_margin"
+    android:paddingTop="@dimen/small_margin">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/image_poster_height_with_margin"
+        android:id="@+id/image_movie_poster"
+        android:scaleType="fitXY" />
+</LinearLayout>

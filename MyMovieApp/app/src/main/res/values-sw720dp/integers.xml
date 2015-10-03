@@ -1,0 +1,4 @@
+<resources>
+    <integer name="num_movie_columns">2</integer>
+    <integer name="num_trailer_columns">1</integer>
+</resources>

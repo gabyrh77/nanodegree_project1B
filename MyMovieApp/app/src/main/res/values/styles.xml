@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/indigo</item>
+        <item name="colorPrimaryDark">@color/indigo_dark</item>
+    </style>
+    <style name="MovieTitleStyle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/background_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="LabelIconStyle">
+        <item name="android:padding">@dimen/icon_padding</item>
+        <item name="android:layout_width">@dimen/icon_size</item>
+        <item name="android:layout_height">@dimen/icon_size</item>
+        <item name="android:tint">@color/indigo</item>
+    </style>
+    <style name="LabelStyle">
+        <item name="android:textColor">@color/indigo</item>
+        <item name="android:paddingBottom">@dimen/tiny_margin</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="InfoStyle">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="InfoStyle.Italic" parent="InfoStyle">
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="InfoStyle.Bold" parent="InfoStyle">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="MoreStyle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/pink</item>
+        <item name="android:text">@string/label_more</item>
+    </style>
+</resources>

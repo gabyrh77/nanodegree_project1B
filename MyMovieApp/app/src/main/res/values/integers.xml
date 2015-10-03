@@ -1,0 +1,6 @@
+<resources>
+    <integer name="pref_order_default">0</integer>
+    <integer name="num_movie_columns">2</integer>
+    <integer name="num_trailer_columns">1</integer>
+    <integer name="num_review_rows">1</integer>
+</resources>

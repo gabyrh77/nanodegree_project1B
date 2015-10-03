@@ -1,0 +1,4 @@
+<resources>
+    <integer name="num_trailer_columns">2</integer>
+    <integer name="num_review_rows">2</integer>
+</resources>

@@ -1,0 +1,11 @@
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:id="@+id/video_gridview"
+    android:numColumns="@integer/num_trailer_columns"
+    android:stretchMode="columnWidth"
+    android:gravity="center"
+    android:horizontalSpacing="@dimen/activity_horizontal_margin"
+    android:verticalSpacing="@dimen/activity_horizontal_margin"
+    tools:context="com.nanodegree.gaby.mymovieapp.activities.VideoActivity"/>
